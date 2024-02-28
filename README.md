@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sayanroy1230
+- 👋 Hi, I’m Sayan Roy
 - 👀 I’m interested in Coding
 
 <!---
