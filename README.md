@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sayan Roy
+- 👋 Hi, I’m Sayan Roy! Currently pursuing my Master's in Computer Applications (MCA) at Calcutta University.
 - 👀 I’m interested in Coding
 
 <!---
