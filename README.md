@@ -9,6 +9,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 interested in Coding and Passionate about software development and eager to learn and grow in the world of technology.
 
 ###
+<h2 align="left">Connect with me</h2>
 
 <div align="center">
   <a href="mailto:roy611894@gmail.com" target="_blank">
